@@ -2,7 +2,7 @@
 
 ## The assignment
 
-I was given a pre-built webpage and was tasked with cleaning up the HTML and CSS coding to make it meet accessibility standards and be optimized for search engines. The following were acceptance criteria I had to meet for this assignment. 
+I was given a pre-built webpage and was tasked with cleaning up the HTML and CSS coding to make it meet accessibility standards and optimized for search engines. The following were acceptance criteria I had to meet for this assignment. 
 
 ## Acceptance Criteria
 
@@ -20,8 +20,11 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-Grading for this assignment was based on my ability to optimize the code, meet the assignemnt criteria, and deploy it to Github.
+Grading for this assignment was based off my ability to optimize the code, meet the acceptance criteria, and deploy it to Github.
 
 ## Submission:
 
-The live URL: 
+The live URL: https://anaeem23.github.io/01-Homework/#social-media-marketing
+
+A Screenshot of the website: ![Screenshot of website](./assets/images/Website-example.png)
+
