@@ -24,7 +24,7 @@ Grading for this assignment was based off my ability to optimize the code, meet 
 
 ## Submission:
 
-The live URL: https://anaeem23.github.io/01-Homework/#social-media-marketing
+The live URL: https://anaeem23.github.io/Northwestern_BootCamp-01-Homework/
 
 A Screenshot of the website: ![Screenshot of website](./assets/images/Website-example.png)
 
